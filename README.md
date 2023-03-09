@@ -1,12 +1,5 @@
-# Music Streaming Website
+# Music Player
 
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/muqriqawiem/Music-Streaming-Webiste/commits/main)
-[![Website shields.io](https://img.shields.io/badge/Website-Up-yellow)](https://muqriqawiem.github.io/Music-Streaming-Webiste/)
+## Deployed using github.
 
-## Features 📋
-⚡️ Display song list.\
-⚡️ Loop song.\
-⚡️ Play random song.\
-⚡️ Animated gradient background.
-
-  <br/>[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://muqriqawiem.github.io/Music-Streaming-Webiste/)
+Visit here : https://pavand18.github.io/music-player.github.io/ 
