@@ -25,6 +25,61 @@ const ap = new APlayer({
         cover: "./pic/I-AIN'T-WORRIED.jfif"
     },
     {
+        name: 'Alone',
+        artist: 'Alan walker',
+        url: './music/Alone.mp3',
+        cover: './pic/alone.jpeg',
+    },  
+    {
+        name: 'Arcade',
+        artist: 'Alan walker',
+        url: './music/Arcade.mp3',
+        cover: './pic/arcade.jpeg',
+    },  
+
+    {
+        name: 'Blank Space',
+        artist: 'Taylor Swift',
+        url: './music/Blank Space.mp3',
+        cover: './pic/bs.jpeg',
+    },  
+    {
+        name: 'On My Way',
+        artist: 'Alan Walker',
+        url: './music/onw.mp3',
+        cover: './pic/onw.jpeg',
+    }, 
+    {
+        name: 'Snap',
+        artist: 'Rosa Linn',
+        url: './music/snap.mp3',
+        cover: './pic/snap.jpeg',
+    }, 
+    {
+        name: 'Cest la vie',
+        artist: 'Khaled',
+        url: './music/cest.mp3',
+        cover: './pic/cest.jpeg',
+    },  
+    {
+        name: 'Counting Stars',
+        artist: 'One Republic',
+        url: './music/cs.mp3',
+        cover: './pic/cs.jpeg',
+    },    
+    {
+        name: 'Dandelions',
+        artist: 'Ruth',
+        url: './music/ddd.mp3',
+        cover: './pic/dand.jpeg',
+    },
+    {
+        name: 'Stay',
+        artist: 'justin Beiber',
+        url: './music/stay.mp3',
+        cover: './pic/stay.jpeg',
+    },
+    {
         name: 'Nang',  // SONG NAME
         artist: 'Iman Troye', //ARTIST NAME
         url: './music/Nang.mp3', // PATH NAME AND SONG URL
@@ -37,41 +92,17 @@ const ap = new APlayer({
         cover: './pic/Ok_Not_to_Be_Ok.png',
     },
     {
-        name: 'Teman',
-        artist: 'Iman Troye',
-        url: './music/Teman.mp3',
-        cover: './pic/teman.jpg',
-    },
-    {
         name: 'A-O-K',
         artist: 'Tai Verdes',
         url: './music/music_A-O-K.mp3',
         cover: './pic/a-o-k-tai-verdes.png',
     },
     {
-        name: 'DO IT TO IT',
-        artist: 'ACRAZE,Cherish',
-        url: './music/music_Do-it-to-it.mp3',
-        cover: './pic/do-it-to-it.jfif',
-    },
-    {
-        name: 'EVERYTHING SUCKS',
-        artist: 'Vaultboy',
-        url: './music/music_vaultboy-everything-sucks.mp3',
-        cover: './pic/everything-sucks.jfif',
-    },
-    {
         name: 'OVERWHELMED (RYAN MACK REMIX)',
         artist: 'Ryan Mack',
         url: './music/music_Overwhelmed-Ryan-Mack-Remix.mp3',
         cover: './pic/Overwhelmed-Ryan-Mack-Remix.jfif',
     },
-    {
-        name: 'OVERWHELMED (RYAN MACK REMIX)',
-        artist: 'Ryan Mack',
-        url: './music/music_Overwhelmed-Ryan-Mack-Remix.mp3',
-        cover: './pic/Overwhelmed-Ryan-Mack-Remix.jfif',
-    },  
 
     ]
 });
