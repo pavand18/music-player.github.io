@@ -1,18 +1,22 @@
 // NOW I CLICK album-poster TO GET CURRENT SONG ID
+// click event listener .. 
 $(".album-poster").on('click', function(e){
+    // to get the data switch value of song of the clicked poster.. 
     var dataSwitchId = $(this).attr('data-switch');
     //console.log(dataSwitchId);
 
     // and now i use aplayer switch function see
+    // this helps in selecting to the song corresponding to the data-switch value of the song.. 
     ap.list.switch(dataSwitchId); //this is static id but i use dynamic 
 
     // aplayer play function
-    // when i click any song to play
+    // when i click any song to play ,, 
+    // song will be played 
     ap.play();
 
-    // click to slideUp player see
+    // click to slideUp player see ,, this makes the audio player visible ,, after playing the song...
     $("#aplayer").addClass('showPlayer');
-});
+});                     
 
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
