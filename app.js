@@ -84,10 +84,10 @@ const ap = new APlayer({
         cover: './pic/stay.jpeg',
     },
     {
-        name: 'Nang',  // SONG NAME
-        artist: 'Iman Troye', //ARTIST NAME
-        url: './music/Nang.mp3', // PATH NAME AND SONG URL
-        cover: './pic/nang.jpg' // COVER IMAGE
+        name: 'Nang',  
+        artist: 'Iman Troye', 
+        url: './music/Nang.mp3', 
+        cover: './pic/nang.jpg'
     },
     {
         name: 'OK Not To Be OK',
